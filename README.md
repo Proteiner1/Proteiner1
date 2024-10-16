@@ -62,7 +62,7 @@ Graduated from the course from karpov.courses on [Data Analyst](https://i.postim
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Proteiner1/1project" target="_blank">Анализ продуктовых метрик мобильного приложения</a></td>
+      <td><a href="https://github.com/Proteiner1/1project" target="_blank">Анализ продуктовых метрик приложения</a></td>
       <td>Функция формирования когорт по дате регистрации в приложении, проведение A/B теста (хи- квадрат, t-test) для определения значимости изменений в ARPU и ARPPU, продуктовые рекомедндации для игры.</td>
       <td>Pandas Numpy Scipy matplotlib seaborn</td>
     </tr>
