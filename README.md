@@ -55,9 +55,9 @@ Graduated from the course from karpov.courses on [Data Analyst](https://i.postim
 <table>
   <thead>
     <tr>
-      <th>Название проекта</th>
-      <th>Описание проекта</th>
-      <th>Стек</th>
+      <th>Project name</th>
+      <th>Description of the project</th>
+      <th>Tools</th>
     </tr>
   </thead>
   <tbody>
