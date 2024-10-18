@@ -80,3 +80,28 @@ Graduated from the course from karpov.courses on [Data Analyst](https://i.postim
   </tbody>
 </table>
 
+<br/> 
+
+## My publications 🕮
+
+<table>
+  <thead>
+    <tr>
+      <th>Publication name</th>
+      <th>Link to the publication</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Способность видеть будущее и p-value</td>
+      <td><a href="https://telegra.ph/Sposobnost-videt-budushchee-i-p-value-10-05" target="_blank">https://telegra.ph/Sposobnost-videt-budushchee-i-p-value-10-05</a></td>
+    </tr>
+    <tr>
+      <td>Анализ данных: что это, кому это нужно и из чего он состоит</td>
+      <td><a href="https://telegra.ph/Analiz-dannyh-chto-ehto-komu-ehto-nuzhno-i-iz-chego-on-sostoit-10-08" target="_blank">https://telegra.ph/Analiz-dannyh-chto-ehto-komu-ehto-nuzhno-i-iz-chego-on-sostoit-10-08</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
