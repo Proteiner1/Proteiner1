@@ -63,8 +63,14 @@ Graduated from the course from karpov.courses on [Data Analyst](https://i.postim
   <tbody>
     <tr>
       <td><a href="https://github.com/Proteiner1/1project" target="_blank">Анализ продуктовых метрик приложения</a></td>
-      <td>Функция формирования когорт по дате регистрации в приложении, проведение A/B теста (хи- квадрат, t-test) для определения значимости изменений в ARPU и ARPPU, продуктовые рекомедндации для игры.</td>
-      <td>Pandas Numpy Scipy matplotlib seaborn</td>
+      <td>Функция формирования когорт по дате регистрации в приложении, проведение A/B теста (хи-квадрат, t-test) для определения значимости изменений в ARPU и ARPPU, продуктовые рекомендации для игры.</td>
+      <td>python pandas numpy scipy matplotlib seaborn</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Proteiner1/2project" target="_blank">Анализ участников соревнований по жиму лёжа</a></td>
+      <td>Исследование данных участников соревнований по жиму лёжа, выявление трендов и закономерностей для улучшения подготовки, сравнение результатов по весовым категориям.</td>
+      <td>python pandas numpy matplotlib Seaborn scipy</td>
     </tr>
   </tbody>
 </table>
+
