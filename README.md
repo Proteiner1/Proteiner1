@@ -71,6 +71,12 @@ Graduated from the course from karpov.courses on [Data Analyst](https://i.postim
       <td>Исследование данных участников соревнований по жиму лёжа, выявление трендов и закономерностей для улучшения подготовки, сравнение результатов по весовым категориям.</td>
       <td>python pandas numpy matplotlib seaborn scipy</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Proteiner1/3project" target="_blank">Дашборд для отслеживания тикетов отдела поддержки</a></td>
+      <td>Мониторинг ключевых метрик, таких как количество тикетов, время обработки 
+  и уровень удовлетворенности клиентов с возможностью выбирать нужный временной промежуток.</td>
+      <td>tabeau excel</td>
+    </tr>
   </tbody>
 </table>
 
