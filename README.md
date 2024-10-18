@@ -18,7 +18,7 @@
   
 
 ## My education: 
-Graduated from the course from karpov.courses on [Data Analyst](https://i.postimg.cc/BQLWKFqP/1.png),  study at the State University of Aerospace Instrumentation in the field of applied Informatics in the information field 👩‍💻  
+Graduated from the course from karpov.courses on [Data Analyst](https://i.postimg.cc/BQLWKFqP/1.png),  study at the State University of Aerospace Instrumentation in the field of applied Informatics in the information sphere 👩‍💻  
   
 
 <br/>  
