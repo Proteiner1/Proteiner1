@@ -69,7 +69,7 @@ Graduated from the course from karpov.courses on [Data Analyst](https://i.postim
     <tr>
       <td><a href="https://github.com/Proteiner1/2project" target="_blank">Анализ участников соревнований по жиму лёжа</a></td>
       <td>Исследование данных участников соревнований по жиму лёжа, выявление трендов и закономерностей для улучшения подготовки, сравнение результатов по весовым категориям.</td>
-      <td>python pandas numpy matplotlib Seaborn scipy</td>
+      <td>python pandas numpy matplotlib seaborn scipy</td>
     </tr>
   </tbody>
 </table>
