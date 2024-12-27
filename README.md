@@ -67,6 +67,11 @@ Graduated from the course from karpov.courses on [Data Analyst](https://i.postim
       <td>python pandas numpy scipy matplotlib seaborn</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Proteiner1/4project" target="_blank">Анализ транзакций и дашборд для онлайн-ритейла</a></td>
+      <td>Создание системы для анализа данных интернет-магазина на основе исторических транзакций с использованием Python и Tableau.</td>
+      <td>Tableau python pandas numpy matplotlib seaborn</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Proteiner1/2project" target="_blank">Анализ участников соревнований по жиму лёжа</a></td>
       <td>Исследование данных участников соревнований по жиму лёжа, выявление трендов и закономерностей для улучшения подготовки, сравнение результатов по весовым категориям.</td>
       <td>python pandas numpy matplotlib seaborn scipy</td>
