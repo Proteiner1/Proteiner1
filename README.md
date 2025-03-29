@@ -82,6 +82,12 @@ Graduated from the course from karpov.courses on [Data Analyst](https://i.postim
   и уровень удовлетворенности клиентов с возможностью выбирать нужный временной промежуток.</td>
       <td>tabeau excel</td>
     </tr>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Proteiner1/5project" target="_blank">Анализ оттока клиентов в телекоммуникационной компании</a></td>
+      <td>Исследование влияния различных параметров на churn клиентов.</td>
+      <td>python postgresql sqlalchemy pandas scipy matplotlib seaborn</td>
+    </tr>
   </tbody>
 </table>
 
